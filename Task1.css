@@ -1,0 +1,127 @@
+.card-container {
+    text-align: center;
+    padding: 25px;
+    width background-size: cover;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    background-color: purple;
+    font-size: 25px;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    margin-left: 160px;
+    margin-right: 290px;
+    height: 20px;
+    padding: 20px;
+}
+
+.paragraph {
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.paragraph-1 {
+    color: purple;
+}
+
+.heading {
+    text-align: center;
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.h1 {
+    font-family: "Roboto";
+    background-color: purple;
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 340px;
+    margin-left: 180px;
+
+    height: 20px;
+    padding: 20px;
+}
+
+
+
+.image-2 {
+    height: 18vh;
+    width: 18vw;
+    border-radius: 700px;
+    padding: 40px;
+    text-align: :center;
+    margin-bottom: 0px;
+    margin-left: 80px;
+}
+
+.image-3 {
+    height: 18vh;
+    width: 18vw;
+    border-radius: 900px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.image-4 {
+    height: 18vh;
+    width: 18vw;
+    border-radius: 900px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.h2 {
+    font-family: "Roboto";
+    background-color: purple;
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 280px;
+    padding: 10px;
+}
+
+.pre {
+    font-style: italic;
+    color: purple;
+}
+
+body {
+    border-right-style: solid;
+    border-left-style: solid;
+}
+
+.img-1 {
+    width: 150px;
+    height: 80px;
+    margin-left: 1047px;
+}
+
+.img-2 {
+    width: 150px;
+    height: 80px;
+
+}
+
+.img-3 {
+    width: 150px;
+    height: 80px;
+    margin-left: 1047px;
+}
+
+.img-4 {
+    width: 150px;
+    height: 80px;
+
+}
